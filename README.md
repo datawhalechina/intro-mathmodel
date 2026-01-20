@@ -17,8 +17,8 @@
 
   ## 参与贡献
 
-  - 如果你想参与到项目中来欢迎查看项目的 [Issue](https://github.com/datawhalechina/repo-template/blob/main/docs) 查看没有被分配的任务。
-  - 如果你发现了一些问题，欢迎在 [Issue](https://github.com/datawhalechina/repo-template/blob/main/docs) 中进行反馈🐛。
+  - 如果你想参与到项目中来欢迎查看项目的 [Issue](https://github.com/datawhalechina/intro-mathmodel/issues) 查看没有被分配的任务。
+  - 如果你发现了一些问题，欢迎在 [Issue](https://github.com/datawhalechina/intro-mathmodel/issues) 中进行反馈🐛。
   - 如果你对本项目感兴趣想要参与进来可以通过 [Discussion](https://github.com/datawhalechina/repo-template/blob/main/docs) 进行交流💬。
 
   如果你对 Datawhale 很感兴趣并想要发起一个新的项目，欢迎查看 [Datawhale 贡献指南](https://github.com/datawhalechina/DOPMC#为-datawhale-做出贡献)。
